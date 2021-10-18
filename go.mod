@@ -1,4 +1,4 @@
-module uname
+module github.com/shigmas/runUname
 
 go 1.16
 
